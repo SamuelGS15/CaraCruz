@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CaraCruz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lado1">Cara</string>
+    <string name="lado2">Cruz</string>
+    <string name="encabezado"><b>Esta aplicación simula el lanzamiento de una
+            moneda.</b></string>
+
+
+</resources>
